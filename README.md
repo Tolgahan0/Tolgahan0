@@ -30,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgahan0&show_icons=true&locale=en&layout=compact" alt="tolgahan0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgahan0&show_icons=true&locale=en" alt="tolgahan0" /></p>
-
