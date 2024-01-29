@@ -1,33 +1,86 @@
-<h1 align="center">Hi 👋, I'm TOLGAHAN AYAZ</h1>
-<h3 align="center">Hi, I'm Tolgahan Ayaz. I'm a Full Stack Software Developer.I mostly use Flutter and JavaScript</h3>
+<br clear="both">
 
+<h3 align="center">🧊 Hello there! I am Tolgahan Ayaz, I started my software journey with open source projects and continued as a DevOps Specialist in my software journey, which I continued as Full Stack. Recently, I have been working on DevOps principles and practices. I am constantly striving to improve myself and learn new technologies in this field.</h3>
 
-  ![207125](https://user-images.githubusercontent.com/77614149/214902835-1097ef92-c14e-4bab-81a6-aced8bba028d.gif)
+###
 
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgahan0&label=Profile%20views&color=0e75b6&style=flat" alt="tolgahan0" /> </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayaz0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="ayaz0" /></a></p><br><br>
+<h4 align="center">🧊 I’m currently learning DevOps Tools & Cloud</h4>
 
-- 🔭 I’m currently working on **my own company project**
+###
 
-- 🌱 I’m currently learning **Backend modules , Flutter, Notejs**
+<br clear="both">
 
-- 💬 Ask me about **Flutter,JavaScript**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="docker logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="46" alt="kubernetes logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="46" alt="jenkins logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="googlecloud logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="46" alt="amazonwebservices logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="46" alt="dart logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="46" alt="go logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="46" alt="flutter logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="46" alt="webpack logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="46" alt="nginx logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="46" alt="redis logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="46" alt="mongodb logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="firebase logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="46" alt="selenium logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="46" alt="terraform logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="git logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="46" alt="gitlab logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="46" alt="express logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo"  />
+</div>
 
-- 📫 How to reach me **tolgahanayaz0@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tolgahanayaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tolgahanayaz0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tolgahanayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgahanayaz" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ayaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayaz0" height="30" width="40" /></a>
-<a href="https://fb.com/togipool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="togipool" height="30" width="40" /></a>
-<a href="https://instagram.com/tolgahanayaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolgahanayaz0" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tolgahan0&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=9&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tolgahan0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
+###
 
-![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=tolgahanayaz0&limit=5&responseType=svg)(https://medium.com/@tolgahanayaz0)
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tolgahan0.Tolgahan0&left_color=blueviolet"  />
+</div>
+
+###
