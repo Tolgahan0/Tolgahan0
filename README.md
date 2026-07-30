@@ -1,85 +1,288 @@
-<br clear="both">
-
-<h3 align="center">🧊 Hello there! I am Tolgahan Ayaz, I started my software journey with open source projects and continued as a DevOps Specialist in my software journey, which I continued as Full Stack. Recently, I have been working on DevOps principles and practices. I am constantly striving to improve myself and learn new technologies in this field.</h3>
-
-###
-
-<br clear="both">
-
-<h4 align="center">🧊 I’m currently learning DevOps Tools & Cloud</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="docker logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="46" alt="kubernetes logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="46" alt="jenkins logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="googlecloud logo"  />
-  <img width="24" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="46" alt="dart logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="46" alt="go logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="46" alt="flutter logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="46" alt="webpack logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="nodejs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="46" alt="nginx logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="46" alt="redis logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="46" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="firebase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="46" alt="selenium logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="46" alt="terraform logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="git logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="46" alt="gitlab logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="46" alt="express logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tolgahan0&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=9&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tolgahan0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tolgahan0.Tolgahan0&left_color=blueviolet"  />
-</div>
-
-###
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 470" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Alex Rivera — Frontend Engineer. Animated profile banner.">
+<title>Alex Rivera · GitHub profile</title>
+<defs>
+<clipPath id="cOut"><rect width="1000" height="470" rx="24"/></clipPath>
+<clipPath id="cL"><rect x="22" y="22" width="356" height="426" rx="18"/></clipPath>
+<clipPath id="cR"><rect x="396" y="22" width="582" height="426" rx="18"/></clipPath>
+<path id="trkL" d="M40,22 H360 A18,18 0 0 1 378,40 V430 A18,18 0 0 1 360,448 H40 A18,18 0 0 1 22,430 V40 A18,18 0 0 1 40,22 Z"/>
+<path id="trkR" d="M414,22 H960 A18,18 0 0 1 978,40 V430 A18,18 0 0 1 960,448 H414 A18,18 0 0 1 396,430 V40 A18,18 0 0 1 414,22 Z"/>
+<radialGradient id="gVig" cx="50%" cy="0%" r="95%"><stop offset="0" stop-color="#7C3AED" stop-opacity=".10"/><stop offset="1" stop-color="#030712" stop-opacity="0"/></radialGradient>
+<radialGradient id="gBlob0" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#7C3AED" stop-opacity=".95"/><stop offset=".55" stop-color="#7C3AED" stop-opacity=".28"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<radialGradient id="gBlob1" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#22D3EE" stop-opacity=".95"/><stop offset=".55" stop-color="#22D3EE" stop-opacity=".28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="gBlob2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#10B981" stop-opacity=".95"/><stop offset=".55" stop-color="#10B981" stop-opacity=".28"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+<linearGradient id="gPanel" x1="0" y1="0" x2=".35" y2="1"><stop offset="0" stop-color="#0F172A" stop-opacity=".72"/><stop offset="1" stop-color="#0F172A" stop-opacity="0.590"/></linearGradient>
+<linearGradient id="gSheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<linearGradient id="gGlass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".055"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.019"/></linearGradient>
+<linearGradient id="gRefl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<linearGradient id="gAscii" gradientUnits="userSpaceOnUse" x1="-130" y1="36.0" x2="170" y2="376.0"><animate attributeName="x1" values="-170;250;-170" dur="9s" repeatCount="indefinite"/><animate attributeName="x2" values="130;550;130" dur="9s" repeatCount="indefinite"/><stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#38BDF8;#22D3EE;#7C3AED" dur="16s" repeatCount="indefinite"/></stop><stop offset=".45" stop-color="#22D3EE"><animate attributeName="offset" values=".32;.62;.32" dur="11s" repeatCount="indefinite"/><animate attributeName="stop-color" values="#22D3EE;#7C3AED;#38BDF8;#22D3EE" dur="16s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#22D3EE;#7C3AED;#38BDF8" dur="16s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="gName" gradientUnits="userSpaceOnUse" x1="420" y1="110" x2="680" y2="150"><animate attributeName="x1" values="300;540;300" dur="10s" repeatCount="indefinite"/><animate attributeName="x2" values="620;860;620" dur="10s" repeatCount="indefinite"/><stop offset="0" stop-color="#7C3AED"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<linearGradient id="gShimL" gradientUnits="userSpaceOnUse" y1="0" y2="0" x1="-318" x2="-18"><animate attributeName="x1" values="-318;418" dur="4.6s" repeatCount="indefinite"/><animate attributeName="x2" values="-18;718" dur="4.6s" repeatCount="indefinite"/><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".85"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient>
+<linearGradient id="gShimR" gradientUnits="userSpaceOnUse" y1="0" y2="0" x1="56" x2="356"><animate attributeName="x1" values="56;1018" dur="4.6s" repeatCount="indefinite"/><animate attributeName="x2" values="356;1318" dur="4.6s" repeatCount="indefinite"/><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".85"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient>
+<linearGradient id="gScan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<linearGradient id="gRail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".18" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset=".82" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<linearGradient id="gPill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C3AED" stop-opacity=".55"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".55"/><stop offset="1" stop-color="#10B981" stop-opacity=".45"/></linearGradient>
+<linearGradient id="gBar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<filter id="fShadow" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#030712" flood-opacity=".55"/></filter>
+<filter id="fBlob" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="46"/></filter>
+<filter id="fSoft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+<filter id="fGlow" x="-45%" y="-45%" width="190%" height="190%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="fGlowS" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="fNoise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".92" numOctaves="3" seed="4" stitchTiles="stitch" result="n"><animate attributeName="seed" values="4;11;19;27;36;48" dur=".72s" calcMode="discrete" repeatCount="indefinite"/></feTurbulence><feColorMatrix in="n" type="saturate" values="0"/></filter>
+<mask id="mType">
+<rect x="50" y="67.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0;0.021;0.9;0.912;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="78.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.021;0.042;0.9018;0.9138;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="88.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.042;0.063;0.9036;0.9156;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="99.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.063;0.084;0.9054;0.9174;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="110" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.084;0.105;0.9072;0.9192;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="120.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.105;0.126;0.909;0.921;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="131.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.126;0.147;0.9108;0.9228;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="141.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.147;0.168;0.9126;0.9246;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="152.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.168;0.189;0.9144;0.9264;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="163" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.189;0.21;0.9162;0.9282;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="173.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.21;0.231;0.918;0.93;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="184.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.231;0.252;0.9198;0.9318;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="194.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.252;0.273;0.9216;0.9336;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="205.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.273;0.294;0.9234;0.9354;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="216" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.294;0.315;0.9252;0.9372;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="226.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.315;0.336;0.927;0.939;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="237.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.336;0.357;0.9288;0.9408;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="247.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.357;0.378;0.9306;0.9426;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="258.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.378;0.399;0.9324;0.9444;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="269" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.399;0.42;0.9342;0.9462;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="279.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.42;0.441;0.936;0.948;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="290.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.441;0.462;0.9378;0.9498;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="300.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.462;0.483;0.9396;0.9516;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="311.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.483;0.504;0.9414;0.9534;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="322" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.504;0.525;0.9432;0.9552;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="332.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.525;0.546;0.945;0.957;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="343.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.546;0.567;0.9468;0.9588;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="353.8" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.567;0.588;0.9486;0.9606;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="364.4" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.588;0.609;0.9504;0.9624;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="375" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.609;0.63;0.9522;0.9642;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="385.6" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.63;0.651;0.954;0.966;1" dur="20s" repeatCount="indefinite"/></rect>
+<rect x="50" y="396.2" height="10.6" width="0" fill="#fff"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.651;0.672;0.9558;0.9678;1" dur="20s" repeatCount="indefinite"/></rect>
+</mask>
+<linearGradient id="gFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".14" stop-color="#fff" stop-opacity="1"/><stop offset=".72" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity=".42"/></linearGradient>
+<mask id="mFade"><rect x="44" y="62.0" width="312" height="359.2" fill="url(#gFade)"/></mask>
+<mask id="mPh0"><rect x="440" y="158" height="24" width="0" fill="#fff"><animate attributeName="width" values="0;0;173.4;173.4;0;0" keyTimes="0;0;0.0775;0.1525;0.1875;1" dur="20s" repeatCount="indefinite"/></rect></mask>
+<mask id="mPh1"><rect x="440" y="158" height="24" width="0" fill="#fff"><animate attributeName="width" values="0;0;204;204;0;0" keyTimes="0;0.2;0.2775;0.3525;0.3875;1" dur="20s" repeatCount="indefinite"/></rect></mask>
+<mask id="mPh2"><rect x="440" y="158" height="24" width="0" fill="#fff"><animate attributeName="width" values="0;0;234.6;234.6;0;0" keyTimes="0;0.4;0.4775;0.5525;0.5875;1" dur="20s" repeatCount="indefinite"/></rect></mask>
+<mask id="mPh3"><rect x="440" y="158" height="24" width="0" fill="#fff"><animate attributeName="width" values="0;0;112.2;112.2;0;0" keyTimes="0;0.6;0.6775;0.7525;0.7875;1" dur="20s" repeatCount="indefinite"/></rect></mask>
+<mask id="mPh4"><rect x="440" y="158" height="24" width="0" fill="#fff"><animate attributeName="width" values="0;0;132.6;132.6;0;0" keyTimes="0;0.8;0.8775;0.9525;0.9875;1" dur="20s" repeatCount="indefinite"/></rect></mask>
+</defs>
+<g clip-path="url(#cOut)">
+<rect width="1000" height="470" fill="#030712"/>
+<rect width="1000" height="470" fill="url(#gVig)"/>
+<g filter="url(#fBlob)" opacity=".38">
+<circle cx="150" cy="90" r="200" fill="url(#gBlob0)"><animateTransform attributeName="transform" type="translate" values="0 0;60 40;-36 20;0 0" dur="21s" repeatCount="indefinite"/><animate attributeName="opacity" values=".75;1;.6;.75" dur="14.7s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="400" r="230" fill="url(#gBlob1)"><animateTransform attributeName="transform" type="translate" values="0 0;-70 -50;42 -25;0 0" dur="26s" repeatCount="indefinite"/><animate attributeName="opacity" values=".75;1;.6;.75" dur="18.2s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="70" r="175" fill="url(#gBlob2)"><animateTransform attributeName="transform" type="translate" values="0 0;-50 60;30 30;0 0" dur="19s" repeatCount="indefinite"/><animate attributeName="opacity" values=".75;1;.6;.75" dur="13.3s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#22D3EE">
+<circle r="0.9" fill="#22D3EE" opacity="0.55"><animateMotion dur="17s" repeatCount="indefinite" path="M80,380 Q75,180 190,120 T80,380"/><animate attributeName="opacity" values="0;0.55;0.165;0.55;0" dur="5.78s" repeatCount="indefinite"/></circle>
+<circle r="1.3" fill="#7C3AED" opacity="0.4"><animateMotion dur="23s" repeatCount="indefinite" path="M300,60 Q425,110 430,300 T300,60"/><animate attributeName="opacity" values="0;0.4;0.12;0.4;0" dur="7.82s" repeatCount="indefinite"/></circle>
+<circle r="1.0" fill="#10B981" opacity="0.5"><animateMotion dur="19s" repeatCount="indefinite" path="M620,430 Q510,190 520,90 T620,430"/><animate attributeName="opacity" values="0;0.5;0.15;0.5;0" dur="6.46s" repeatCount="indefinite"/></circle>
+<circle r="1.5" fill="#22D3EE" opacity="0.32"><animateMotion dur="26s" repeatCount="indefinite" path="M880,330 Q850,310 700,430 T880,330"/><animate attributeName="opacity" values="0;0.32;0.096;0.32;0" dur="8.84s" repeatCount="indefinite"/></circle>
+<circle r="0.8" fill="#7C3AED" opacity="0.48"><animateMotion dur="21s" repeatCount="indefinite" path="M470,200 Q650,155 950,250 T470,200"/><animate attributeName="opacity" values="0;0.48;0.144;0.48;0" dur="7.14s" repeatCount="indefinite"/></circle>
+<circle r="1.2" fill="#10B981" opacity="0.36"><animateMotion dur="29s" repeatCount="indefinite" path="M200,260 Q205,90 90,60 T200,260"/><animate attributeName="opacity" values="0;0.36;0.108;0.36;0" dur="9.86s" repeatCount="indefinite"/></circle>
+<circle r="1.0" fill="#22D3EE" opacity="0.42"><animateMotion dur="24s" repeatCount="indefinite" path="M760,120 Q510,200 380,420 T760,120"/><animate attributeName="opacity" values="0;0.42;0.126;0.42;0" dur="8.16s" repeatCount="indefinite"/></circle>
+<circle r="0.9" fill="#7C3AED" opacity="0.3"><animateMotion dur="31s" repeatCount="indefinite" path="M960,420 Q860,160 640,40 T960,420"/><animate attributeName="opacity" values="0;0.3;0.09;0.3;0" dur="10.54s" repeatCount="indefinite"/></circle>
+<circle r="1.1" fill="#10B981" opacity="0.34"><animateMotion dur="27s" repeatCount="indefinite" path="M130,150 Q130,225 250,440 T130,150"/><animate attributeName="opacity" values="0;0.34;0.102;0.34;0" dur="9.18s" repeatCount="indefinite"/></circle>
+<circle r="0.8" fill="#22D3EE" opacity="0.44"><animateMotion dur="22s" repeatCount="indefinite" path="M540,450 Q770,230 880,150 T540,450"/><animate attributeName="opacity" values="0;0.44;0.132;0.44;0" dur="7.48s" repeatCount="indefinite"/></circle>
+<circle r="1.4" fill="#7C3AED" opacity="0.26"><animateMotion dur="33s" repeatCount="indefinite" path="M400,330 Q170,220 60,250 T400,330"/><animate attributeName="opacity" values="0;0.26;0.078;0.26;0" dur="11.22s" repeatCount="indefinite"/></circle>
+<circle r="0.7" fill="#10B981" opacity="0.52"><animateMotion dur="18s" repeatCount="indefinite" path="M700,250 Q905,255 990,400 T700,250"/><animate attributeName="opacity" values="0;0.52;0.156;0.52;0" dur="6.12s" repeatCount="indefinite"/></circle>
+</g>
+<g filter="url(#fShadow)"><rect x="22" y="22" width="356" height="426" rx="18" fill="url(#gPanel)"/></g>
+<g clip-path="url(#cL)">
+<rect x="22" y="22" width="356" height="426" fill="url(#gGlass)"/>
+<rect x="22" y="22" width="356" height="120" fill="url(#gSheen)"/>
+<path d="M22 66H378M22 70H378M22 74H378M22 78H378M22 82H378M22 86H378M22 90H378M22 94H378M22 98H378M22 102H378M22 106H378M22 110H378M22 114H378M22 118H378M22 122H378M22 126H378M22 130H378M22 134H378M22 138H378M22 142H378M22 146H378M22 150H378M22 154H378M22 158H378M22 162H378M22 166H378M22 170H378M22 174H378M22 178H378M22 182H378M22 186H378M22 190H378M22 194H378M22 198H378M22 202H378M22 206H378M22 210H378M22 214H378M22 218H378M22 222H378M22 226H378M22 230H378M22 234H378M22 238H378M22 242H378M22 246H378M22 250H378M22 254H378M22 258H378M22 262H378M22 266H378M22 270H378M22 274H378M22 278H378M22 282H378M22 286H378M22 290H378M22 294H378M22 298H378M22 302H378M22 306H378M22 310H378M22 314H378M22 318H378M22 322H378M22 326H378M22 330H378M22 334H378M22 338H378M22 342H378M22 346H378M22 350H378M22 354H378M22 358H378M22 362H378M22 366H378M22 370H378M22 374H378M22 378H378M22 382H378M22 386H378M22 390H378M22 394H378M22 398H378M22 402H378M22 406H378M22 410H378M22 414H378M22 418H378M22 422H378M22 426H378M22 430H378M22 434H378M22 438H378M22 442H378M22 446H378" stroke="#F8FAFC" stroke-width=".7" opacity=".055"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -3.6;0 1.4;0 0" dur="7.5s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1" keyTimes="0;.35;.7;1"/>
+<g mask="url(#mFade)"><g mask="url(#mType)">
+<g filter="url(#fGlow)" fill="url(#gAscii)" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.3" letter-spacing="0">
+<text x="162.5" y="86.6" textLength="37.5" lengthAdjust="spacingAndGlyphs">@%%%%%</text>
+<text x="143.75" y="97.2" textLength="75" lengthAdjust="spacingAndGlyphs">@@@%%%%%%%##</text>
+<text x="131.25" y="107.8" textLength="93.75" lengthAdjust="spacingAndGlyphs">@@@%%%%%%######</text>
+<text x="125" y="118.4" textLength="106.25" lengthAdjust="spacingAndGlyphs">@@%%%%%#######***</text>
+<text x="125" y="129" textLength="112.5" lengthAdjust="spacingAndGlyphs">@%%%%######*******</text>
+<text x="118.75" y="139.6" textLength="118.75" lengthAdjust="spacingAndGlyphs">@%%%#####*****=====</text>
+<text x="112.5" y="150.2" textLength="125" lengthAdjust="spacingAndGlyphs">@%%#####***+=******+</text>
+<text x="112.5" y="160.8" textLength="125" lengthAdjust="spacingAndGlyphs">@#####**+##**+++++=-</text>
+<text x="112.5" y="171.4" textLength="118.75" lengthAdjust="spacingAndGlyphs">@###**+####**+===+=</text>
+<text x="112.5" y="182" textLength="131.25" lengthAdjust="spacingAndGlyphs">%#**+#########****+=:</text>
+<text x="112.5" y="192.6" textLength="143.75" lengthAdjust="spacingAndGlyphs">#*+#############****+=:</text>
+<text x="112.5" y="203.2" textLength="131.25" lengthAdjust="spacingAndGlyphs">#*##############**+=:</text>
+<text x="118.75" y="213.8" textLength="118.75" lengthAdjust="spacingAndGlyphs">+##############**+-</text>
+<text x="118.75" y="224.4" textLength="118.75" lengthAdjust="spacingAndGlyphs">+*#############*+=:</text>
+<text x="125" y="235" textLength="112.5" lengthAdjust="spacingAndGlyphs">+############**+=-</text>
+<text x="125" y="245.6" textLength="118.75" lengthAdjust="spacingAndGlyphs">=*########****+++=-</text>
+<text x="131.25" y="256.2" textLength="112.5" lengthAdjust="spacingAndGlyphs">+*##**********+=-.</text>
+<text x="131.25" y="266.8" textLength="93.75" lengthAdjust="spacingAndGlyphs">:=+++++++++==-.</text>
+<text x="137.5" y="277.4" textLength="62.5" lengthAdjust="spacingAndGlyphs">-=+++===:.</text>
+<text x="137.5" y="288" textLength="56.25" lengthAdjust="spacingAndGlyphs">:=+++++=.</text>
+<text x="137.5" y="298.6" textLength="56.25" lengthAdjust="spacingAndGlyphs">.+***++=:</text>
+<text x="143.75" y="309.2" textLength="50" lengthAdjust="spacingAndGlyphs">+*****+-</text>
+<text x="143.75" y="319.8" textLength="50" lengthAdjust="spacingAndGlyphs">=******=</text>
+<text x="137.5" y="330.4" textLength="87.5" lengthAdjust="spacingAndGlyphs">=*##**++=----:</text>
+<text x="118.75" y="341" textLength="156.25" lengthAdjust="spacingAndGlyphs">:+*###**++====++++===---:</text>
+<text x="106.25" y="351.6" textLength="187.5" lengthAdjust="spacingAndGlyphs">:+*####***++=====++++=+++++==:</text>
+<text x="93.75" y="362.2" textLength="212.5" lengthAdjust="spacingAndGlyphs">:=*#####***++==-=============+==-.</text>
+<text x="81.25" y="372.8" textLength="237.5" lengthAdjust="spacingAndGlyphs">:=+****##***+++=---================-:.</text>
+<text x="75" y="383.4" textLength="250" lengthAdjust="spacingAndGlyphs">:+**********+++==----==============---:.</text>
+<text x="75" y="394" textLength="250" lengthAdjust="spacingAndGlyphs">=++++*******++==---------------===----:.</text>
+<text x="68.75" y="404.6" textLength="256.25" lengthAdjust="spacingAndGlyphs">:++++++++**+++===--::-----------------:::</text>
+</g></g></g>
+<g opacity="1"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.672;0.674;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/>
+<rect x="50" y="68.4" width="6.2" height="9.6" rx="1" fill="#22D3EE" filter="url(#fGlowS)"><animate attributeName="x" from="50" to="350" dur="0.42s" repeatCount="32"/><animate attributeName="y" values="68.4;79;89.6;100.2;110.8;121.4;132;142.6;153.2;163.8;174.4;185;195.6;206.2;216.8;227.4;238;248.6;259.2;269.8;280.4;291;301.6;312.2;322.8;333.4;344;354.6;365.2;375.8;386.4;397" keyTimes="0;0.021;0.042;0.063;0.084;0.105;0.126;0.147;0.168;0.189;0.21;0.231;0.252;0.273;0.294;0.315;0.336;0.357;0.378;0.399;0.42;0.441;0.462;0.483;0.504;0.525;0.546;0.567;0.588;0.609;0.63;0.651" calcMode="discrete" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;.15;.15" dur=".9s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x="22" y="-96" width="356" height="96" fill="url(#gScan)"><animateTransform attributeName="transform" type="translate" values="0 0;0 544" dur="5.4s" repeatCount="indefinite"/></rect>
+<rect x="22" y="-2" width="356" height="1.4" fill="#22D3EE" opacity="0.384"><animateTransform attributeName="transform" type="translate" values="0 0;0 456" dur="5.4s" repeatCount="indefinite"/></rect>
+<g><animateTransform attributeName="transform" type="translate" values="-260 0;-260 0;616 0;616 0" keyTimes="0;.18;.62;1" dur="10s" repeatCount="indefinite"/><path d="M62,22 l90,0 l-130,426 l-90,0 Z" fill="url(#gRefl)"/></g>
+</g>
+<rect x="22" y="22" width="356" height="426" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect x="22" y="22" width="356" height="426" rx="18" fill="none" stroke="url(#gShimL)" stroke-width="1.2"/>
+<circle r="2.4" fill="#22D3EE" filter="url(#fGlowS)" opacity=".9"><animateMotion dur="9s" repeatCount="indefinite" rotate="auto"><mpath href="#trkL" xlink:href="#trkL"/></animateMotion></circle>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8">
+<text x="50" y="47" letter-spacing=".8" opacity=".85">portrait.ascii</text>
+<text x="350" y="47" text-anchor="end" opacity=".55">48×32</text>
+<text x="50" y="424" font-size="9.2" letter-spacing="1.4" opacity=".6">DECODING</text>
+<text x="350" y="424" font-size="9.2" text-anchor="end" letter-spacing="1.4" opacity=".6">GRADIENT · LIVE</text>
+</g>
+<path d="M50 56H350" stroke="url(#gRail)" stroke-width="1"/>
+<rect x="50" y="430" width="300" height="2.6" rx="1.3" fill="#94A3B8" opacity=".16"/>
+<rect x="50" y="430" width="0" height="2.6" rx="1.3" fill="url(#gBar)"><animate attributeName="width" values="0;300;300;0;0" keyTimes="0;0.672;0.955;0.975;1" dur="20s" repeatCount="indefinite"/></rect>
+<g filter="url(#fShadow)"><rect x="396" y="22" width="582" height="426" rx="18" fill="url(#gPanel)"/></g>
+<g clip-path="url(#cR)">
+<rect x="396" y="22" width="582" height="426" fill="url(#gGlass)"/>
+<rect x="396" y="22" width="582" height="130" fill="url(#gSheen)"/>
+<g><animateTransform attributeName="transform" type="translate" values="-300 0;-300 0;882 0;882 0" keyTimes="0;.22;.68;1" dur="12s" repeatCount="indefinite"/><path d="M456,22 l110,0 l-150,426 l-110,0 Z" fill="url(#gRefl)"/></g>
+</g>
+<rect x="396" y="22" width="582" height="426" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect x="396" y="22" width="582" height="426" rx="18" fill="none" stroke="url(#gShimR)" stroke-width="1.2"/>
+<circle r="2.4" fill="#7C3AED" filter="url(#fGlowS)" opacity=".9"><animateMotion dur="11s" repeatCount="indefinite" begin="-3s"><mpath href="#trkR" xlink:href="#trkR"/></animateMotion></circle>
+<circle cx="420" cy="41" r="4" fill="#7C3AED" opacity=".8"><animate attributeName="opacity" values=".55;.95;.55" dur="3.2s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<circle cx="435" cy="41" r="4" fill="#22D3EE" opacity=".8"><animate attributeName="opacity" values=".55;.95;.55" dur="3.8000000000000003s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="41" r="4" fill="#10B981" opacity=".8"><animate attributeName="opacity" values=".55;.95;.55" dur="4.4s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<text x="687" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.8" fill="#94A3B8" opacity=".72" letter-spacing=".4">~/dev/alex-rivera — zsh</text>
+<circle cx="924" cy="41" r="3" fill="#10B981" filter="url(#fGlowS)"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="954" y="45" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#94A3B8" opacity=".7" letter-spacing="1">live</text>
+<path d="M396 60H978" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".7s" begin=".15s" fill="freeze"/><text x="420" y="95" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14.5" fill="#94A3B8" letter-spacing=".6">Hi</text><g transform="translate(452,88)"><g><animateTransform attributeName="transform" type="rotate" values="0;16;-6;16;0;0;0" keyTimes="0;.08;.16;.24;.34;.7;1" dur="3.4s" repeatCount="indefinite"/><text x="0" y="7" font-size="15" text-anchor="middle">👋</text></g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" dur=".9s" begin=".35s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><text x="420" y="134" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15.5" fill="#94A3B8" opacity=".8">I'm</text><text x="454" y="137" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="-.6" fill="url(#gName)" filter="url(#fGlow)">Alex Rivera</text></g>
+<text x="420" y="174" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" fill="#22D3EE" opacity=".9">❯</text>
+<g mask="url(#mPh0)"><text x="440" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="17" fill="#F8FAFC" letter-spacing="0" textLength="173.4" lengthAdjust="spacing">Frontend Engineer</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0;0.0775;0.1525;0.1875;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/><rect y="161" width="9" height="17" rx="1.5" fill="#22D3EE" opacity=".9" filter="url(#fGlowS)" x="442"><animate attributeName="x" values="442;442;615.4;615.4;442;442" keyTimes="0;0;0.0775;0.1525;0.1875;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values=".95;.95;.1;.1" dur=".95s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<g mask="url(#mPh1)"><text x="440" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="17" fill="#F8FAFC" letter-spacing="0" textLength="204" lengthAdjust="spacing">Full Stack Developer</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.2;0.2775;0.3525;0.3875;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/><rect y="161" width="9" height="17" rx="1.5" fill="#22D3EE" opacity=".9" filter="url(#fGlowS)" x="442"><animate attributeName="x" values="442;442;646;646;442;442" keyTimes="0;0.2;0.2775;0.3525;0.3875;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values=".95;.95;.1;.1" dur=".95s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<g mask="url(#mPh2)"><text x="440" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="17" fill="#F8FAFC" letter-spacing="0" textLength="234.6" lengthAdjust="spacing">Open Source Contributor</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.4;0.4775;0.5525;0.5875;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/><rect y="161" width="9" height="17" rx="1.5" fill="#22D3EE" opacity=".9" filter="url(#fGlowS)" x="442"><animate attributeName="x" values="442;442;676.6;676.6;442;442" keyTimes="0;0.4;0.4775;0.5525;0.5875;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values=".95;.95;.1;.1" dur=".95s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<g mask="url(#mPh3)"><text x="440" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="17" fill="#F8FAFC" letter-spacing="0" textLength="112.2" lengthAdjust="spacing">UI Engineer</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.6;0.6775;0.7525;0.7875;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/><rect y="161" width="9" height="17" rx="1.5" fill="#22D3EE" opacity=".9" filter="url(#fGlowS)" x="442"><animate attributeName="x" values="442;442;554.2;554.2;442;442" keyTimes="0;0.6;0.6775;0.7525;0.7875;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values=".95;.95;.1;.1" dur=".95s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<g mask="url(#mPh4)"><text x="440" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="17" fill="#F8FAFC" letter-spacing="0" textLength="132.6" lengthAdjust="spacing">AI Enthusiast</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.8;0.8775;0.9525;0.9875;1" dur="20s" calcMode="discrete" repeatCount="indefinite"/><rect y="161" width="9" height="17" rx="1.5" fill="#22D3EE" opacity=".9" filter="url(#fGlowS)" x="442"><animate attributeName="x" values="442;442;574.6;574.6;442;442" keyTimes="0;0.8;0.8775;0.9525;0.9875;1" dur="20s" repeatCount="indefinite"/><animate attributeName="opacity" values=".95;.95;.1;.1" dur=".95s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+<path d="M420 196H954" stroke="url(#gRail)" stroke-width="1"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.95s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur=".7s" begin="0.95s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/>
+<g transform="translate(420,211.5) scale(.545)" fill="none" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><animate attributeName="opacity" values=".62;1;.62" dur="4.0s" begin="-0.0s" repeatCount="indefinite"/><path d="M12 21.2c4.2-4.4 6.4-7.6 6.4-10.6a6.4 6.4 0 1 0-12.8 0c0 3 2.2 6.2 6.4 10.6Z"/><circle cx="12" cy="10.4" r="2.5"/></g>
+<text x="446" y="222" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8" letter-spacing="1.1" opacity=".8">LOCATION</text>
+<text x="536" y="222" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity=".94">Berlin, Germany · UTC+2</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.23s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur=".7s" begin="1.23s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/>
+<g transform="translate(420,237.5) scale(.545)" fill="none" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><animate attributeName="opacity" values=".62;1;.62" dur="4.5s" begin="-0.9s" repeatCount="indefinite"/><path d="M2.4 9.2 12 5.2l9.6 4-9.6 4Z"/><path d="M6.2 11.4v4.3c0 1.7 2.6 2.9 5.8 2.9s5.8-1.2 5.8-2.9v-4.3"/></g>
+<text x="446" y="248" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8" letter-spacing="1.1" opacity=".8">EDUCATION</text>
+<text x="536" y="248" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity=".94">B.Sc. Computer Science</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.51s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur=".7s" begin="1.51s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/>
+<g transform="translate(420,263.5) scale(.545)" fill="none" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><animate attributeName="opacity" values=".62;1;.62" dur="5.0s" begin="-1.8s" repeatCount="indefinite"/><circle cx="12" cy="12" r="8.4"/><circle cx="12" cy="12" r="4.2"/><path d="M12 1.6v3M12 19.4v3M1.6 12h3M19.4 12h3"/></g>
+<text x="446" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8" letter-spacing="1.1" opacity=".8">FOCUS</text>
+<text x="536" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity=".94">Design systems &amp; LLM tooling</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.79s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur=".7s" begin="1.79s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/>
+<g transform="translate(420,289.5) scale(.545)" fill="none" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><animate attributeName="opacity" values=".62;1;.62" dur="5.5s" begin="-2.7s" repeatCount="indefinite"/><circle cx="12" cy="12" r="8.6"/><path d="M3.4 12h17.2"/><path d="M12 3.4c2.4 2.3 3.7 5.3 3.7 8.6S14.4 18.3 12 20.6c-2.4-2.3-3.7-5.3-3.7-8.6S9.6 5.7 12 3.4Z"/></g>
+<text x="446" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8" letter-spacing="1.1" opacity=".8">PORTFOLIO</text>
+<text x="536" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity=".94">alexrivera.dev</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2.07s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur=".7s" begin="2.07s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/>
+<g transform="translate(420,315.5) scale(.545)" fill="none" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><animate attributeName="opacity" values=".62;1;.62" dur="6.0s" begin="-3.6s" repeatCount="indefinite"/><path d="M3.4 6.4h17.2v11.2H3.4Z"/><path d="M3.9 7 12 13.1 20.1 7"/></g>
+<text x="446" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.2" fill="#94A3B8" letter-spacing="1.1" opacity=".8">EMAIL</text>
+<text x="536" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity=".94">hey@alexrivera.dev</text>
+</g>
+<path d="M420 340H954" stroke="url(#gRail)" stroke-width="1"/>
+<text x="420" y="357" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.2" fill="#94A3B8" letter-spacing="2.2" opacity=".7">STACK</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.9s" fill="freeze"/><g transform="translate(448.95,375)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="1.9s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-28.95" y="-11.5" width="57.9" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="3.6s" begin="-0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-28.95" y="-11.5" width="57.9" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">React</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.99s" fill="freeze"/><g transform="translate(521.55,375)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="1.99s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-35.65" y="-11.5" width="71.3" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.05s" begin="-0.37s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-35.65" y="-11.5" width="71.3" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Next.js</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.08s" fill="freeze"/><g transform="translate(601.75,375)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.08s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-36.55" y="-11.5" width="73.1" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.5s" begin="-0.74s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-36.55" y="-11.5" width="73.1" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Node.js</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.17s" fill="freeze"/><g transform="translate(693.3,375)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.17s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-47" y="-11.5" width="94" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.95s" begin="-1.11s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-47" y="-11.5" width="94" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">TypeScript</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.26s" fill="freeze"/><g transform="translate(786.1,375)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.26s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-37.8" y="-11.5" width="75.6" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="3.6s" begin="-1.48s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-37.8" y="-11.5" width="75.6" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Tailwind</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.35s" fill="freeze"/><g transform="translate(454,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.35s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-34" y="-11.5" width="68" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.05s" begin="-1.85s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-34" y="-11.5" width="68" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Python</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.44s" fill="freeze"/><g transform="translate(530,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.44s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-34" y="-11.5" width="68" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.5s" begin="-2.22s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-34" y="-11.5" width="68" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Docker</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.53s" fill="freeze"/><g transform="translate(612.45,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.53s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-40.45" y="-11.5" width="80.9" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.95s" begin="-2.59s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-40.45" y="-11.5" width="80.9" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Postgres</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.62s" fill="freeze"/><g transform="translate(685,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.62s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-24.1" y="-11.5" width="48.2" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="3.6s" begin="-2.96s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-24.1" y="-11.5" width="48.2" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">AWS</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.71s" fill="freeze"/><g transform="translate(739.35,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.71s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-22.25" y="-11.5" width="44.5" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.05s" begin="-3.33s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-22.25" y="-11.5" width="44.5" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Git</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.8s" fill="freeze"/><g transform="translate(799.75,402)"><animateTransform attributeName="transform" type="scale" from=".86" to="1" dur=".55s" begin="2.8s" fill="freeze" additive="sum" calcMode="spline" keySplines=".2 0 0 1"/><g><animateTransform attributeName="transform" type="scale" values="1;1.07" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.07;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-30.15" y="-11.5" width="60.3" height="23" rx="11.5" fill="none" stroke="#22D3EE" stroke-width="2.6" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.26;.06" dur="4.5s" begin="-3.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;.55" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-30.15" y="-11.5" width="60.3" height="23" rx="11.5" fill="#0F172A" fill-opacity=".055" stroke="url(#gPill)" stroke-width="1"/>
+<text x="0" y="4" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="500" fill="#F8FAFC" opacity=".92" letter-spacing=".1">Figma</text>
+</g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.9s" fill="freeze"/><g transform="translate(434,428)"><g><animateTransform attributeName="transform" type="scale" values="1;1.11" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.11;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="none" stroke="#22D3EE" stroke-width="2.4" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.3;.06" dur="4.2s" begin="-0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.6" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="#0F172A" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity="0.128"/>
+<g transform="translate(-8,-8) scale(.6667)" opacity=".88"><path d="M12 1.3C6.1 1.3 1.3 6.1 1.3 12c0 4.8 3.1 8.8 7.4 10.2.5.1.7-.2.7-.5v-1.8c-3 .7-3.7-1.4-3.7-1.4-.5-1.3-1.2-1.6-1.2-1.6-1-.7.1-.7.1-.7 1.1.1 1.7 1.1 1.7 1.11 1.7 2.5 1.2 3.2.9.1-.7.4-1.2.7-1.5-2.4-.3-4.9-1.2-4.9-5.4 0-1.2.4-2.2 1.1-2.9-.1-.3-.5-1.4.1-2.9 0 0 .9-.3 3 1.1a10.4 10.4 0 0 1 5.4 0c2.1-1.4 3-1.1 3-1.1.6 1.5.2 2.6.1 2.9.7.7 1.1 1.7 1.1 2.9 0 4.2-2.5 5.1-5 5.4.4.3.7 1 .7 2v3c0 .3.2.6.8.5A10.7 10.7 0 0 0 22.7 12C22.7 6.1 17.9 1.3 12 1.3Z" fill="#F8FAFC"/></g></g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="3.02s" fill="freeze"/><g transform="translate(468,428)"><g><animateTransform attributeName="transform" type="scale" values="1;1.11" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.11;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="none" stroke="#22D3EE" stroke-width="2.4" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.3;.06" dur="4.7s" begin="-1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.6" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="#0F172A" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity="0.128"/>
+<g transform="translate(-8,-8) scale(.6667)" opacity=".88"><path d="M4.1 9.4h3.1v11.3H4.1Zm1.55-5.1a1.85 1.85 0 1 1 0 3.7 1.85 1.85 0 0 1 0-3.7ZM9.6 9.4h3v1.5c.5-.9 1.7-1.8 3.4-1.8 2.5 0 4.1 1.6 4.1 4.6v7h-3.1v-6.3c0-1.5-.6-2.4-1.9-2.4-1.2 0-1.9.8-1.9 2.3v6.4h-3.1Z" fill="#F8FAFC"/></g></g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="3.14s" fill="freeze"/><g transform="translate(502,428)"><g><animateTransform attributeName="transform" type="scale" values="1;1.11" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.11;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="none" stroke="#22D3EE" stroke-width="2.4" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.3;.06" dur="5.2s" begin="-2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.6" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="#0F172A" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity="0.128"/>
+<g transform="translate(-8,-8) scale(.6667)" opacity=".88"><path d="M3 3.2h4.3l4.6 6.1 5-6.1h3.4l-6.7 8.1 7.4 9.5h-4.3l-4.9-6.5-5.3 6.5H3.1l7-8.6Z" fill="#F8FAFC"/></g></g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="3.26s" fill="freeze"/><g transform="translate(536,428)"><g><animateTransform attributeName="transform" type="scale" values="1;1.11" dur=".2s" begin="mouseover" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/><animateTransform attributeName="transform" type="scale" values="1.11;1" dur=".25s" begin="mouseout" fill="freeze"/>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="none" stroke="#22D3EE" stroke-width="2.4" opacity=".10" filter="url(#fSoft)"><animate attributeName="opacity" values=".06;.3;.06" dur="5.7s" begin="-3.3000000000000003s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;.6" dur=".2s" begin="mouseover" fill="freeze"/><animate attributeName="opacity" values=".12;.12" dur=".2s" begin="mouseout" fill="freeze"/></rect>
+<rect x="-14.0" y="-14.0" width="28" height="28" rx="9" fill="#0F172A" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity="0.128"/>
+<g transform="translate(-8,-8) scale(.6667)" opacity=".88"><path d="M12 3.2a8.8 8.8 0 1 0 0 17.6 8.8 8.8 0 0 0 0-17.6ZM3.2 12h17.6M12 3.2c2.4 2.4 3.7 5.4 3.7 8.8S14.4 18.4 12 20.8c-2.4-2.4-3.7-5.4-3.7-8.8S9.6 5.6 12 3.2Z" fill="none" stroke="#F8FAFC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g></g></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="3.3s" fill="freeze"/><rect x="782.2" y="415" width="171.8" height="26" rx="13" fill="#10B981" fill-opacity=".07" stroke="#10B981" stroke-opacity=".32"/><circle cx="799.2" cy="428" r="3.4" fill="#10B981" filter="url(#fGlowS)"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/><animate attributeName="r" values="3.4;2.6;3.4" dur="2.4s" repeatCount="indefinite"/></circle><text x="812.2" y="432" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="500" fill="#10B981" letter-spacing=".2">Open to collaborate</text></g>
+<rect x="0" y="-150" width="1000" height="150" fill="url(#gScan)" opacity=".5"><animateTransform attributeName="transform" type="translate" values="0 0;0 630" dur="9.5s" repeatCount="indefinite"/></rect>
+<rect width="1000" height="470" fill="#030712" filter="url(#fNoise)" opacity=".055"/>
+<rect width="1000" height="470" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.072"/>
+</g>
+</svg>
