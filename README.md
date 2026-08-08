@@ -8,8 +8,6 @@
 [![Gmail](https://img.shields.io/badge/tolgahanayazdev%40gmail.com-00fff2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:tolgahanayazdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/tolgahanayaz-00fff2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tolgahanayaz)
 [![X](https://img.shields.io/badge/%40tolgahanayaz0-00fff2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/tolgahanayaz0)
-[![Bento](https://img.shields.io/badge/bento.me%2Ftolgahanayaz-00fff2?style=for-the-badge&logo=links&logoColor=white&labelColor=0d1117)](https://bento.me/tolgahanayaz)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:8000ff&height=4&section=header" width="100%" height="4" alt="" />
