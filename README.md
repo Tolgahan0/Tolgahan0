@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tolgahan Ayaz
-**DevOps Engineer · Backend Engineer** — Turkey
+**DevOps Engineer · Backend Engineer** 
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1500&color=00FFF2&background=00000000&center=true&vCenter=true&width=620&height=40&lines=DevOps+Engineer+%C2%B7+Backend+Engineer;Based+in+Turkey+%C2%B7+ServicePark+%26+1Ware;Building%3A+E2E+Sentinel%2C+an+AI-assisted+QA+platform;Go+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Kubernetes" alt="what I do" />
 
