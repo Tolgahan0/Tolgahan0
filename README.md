@@ -38,6 +38,8 @@ code, infrastructure, or data without explicit human approval.
 
 [![Repo](https://img.shields.io/badge/source-Tolgahan0%2FE2E--Sentinel-00fff2?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Tolgahan0/E2E-Sentinel)
 [![License](https://img.shields.io/github/license/Tolgahan0/E2E-Sentinel?style=flat-square&color=8000ff&labelColor=0d1117)](https://github.com/Tolgahan0/E2E-Sentinel/blob/main/LICENSE)
+[![Tests](https://github.com/Tolgahan0/E2E-Sentinel/actions/workflows/tests.yml/badge.svg)](https://github.com/Tolgahan0/E2E-Sentinel/actions/workflows/tests.yml)
+[![Dependency scan](https://github.com/Tolgahan0/E2E-Sentinel/actions/workflows/dependency-scan.yml/badge.svg)](https://github.com/Tolgahan0/E2E-Sentinel/actions/workflows/dependency-scan.yml)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:8000ff&height=4&section=header" width="100%" height="4" alt="" />
 
